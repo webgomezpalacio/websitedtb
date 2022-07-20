@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/websitedtb/static/css/main.2d0be30a.css",
+    "main.js": "/websitedtb/static/js/main.cac996fa.js",
+    "static/js/787.b51a47af.chunk.js": "/websitedtb/static/js/787.b51a47af.chunk.js",
+    "static/media/About-.jpg": "/websitedtb/static/media/About-.ff53d85e3cbf2c084342.jpg",
+    "static/media/PORTADA-BENEFLEX-V01.jpg": "/websitedtb/static/media/PORTADA-BENEFLEX-V01.b9685f24a3c4e51d2e64.jpg",
+    "static/media/BENEFLEX-02.jpg": "/websitedtb/static/media/BENEFLEX-02.f263ecef5e479d3fb443.jpg",
+    "static/media/hero-home.jpg": "/websitedtb/static/media/hero-home.d8a78d30903e5cc3ea11.jpg",
+    "static/media/ozias.jpg": "/websitedtb/static/media/ozias.9631f8aaedea18c38057.jpg",
+    "static/media/BENEFLEX-01.jpg": "/websitedtb/static/media/BENEFLEX-01.eca763bdd21b2f1c3510.jpg",
+    "static/media/ingles.jpg": "/websitedtb/static/media/ingles.7b812de6bb0210812219.jpg",
+    "static/media/beneflex.jpg": "/websitedtb/static/media/beneflex.2c8c9f147900356636d5.jpg",
+    "static/media/finanzas.jpg": "/websitedtb/static/media/finanzas.eb3da46ed6069f515ae4.jpg",
+    "static/media/naturalizacion.jpg": "/websitedtb/static/media/naturalizacion.78bab4d4d7a6a3ae97e3.jpg",
+    "static/media/referencias.jpg": "/websitedtb/static/media/referencias.96ae1e7e4bc3fe91742a.jpg",
+    "static/media/slick.svg": "/websitedtb/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/websitedtb/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/websitedtb/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/websitedtb/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/websitedtb/index.html",
+    "main.2d0be30a.css.map": "/websitedtb/static/css/main.2d0be30a.css.map",
+    "main.cac996fa.js.map": "/websitedtb/static/js/main.cac996fa.js.map",
+    "787.b51a47af.chunk.js.map": "/websitedtb/static/js/787.b51a47af.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d0be30a.css",
+    "static/js/main.cac996fa.js"
+  ]
+}
