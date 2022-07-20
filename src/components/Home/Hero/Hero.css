@@ -1,0 +1,11 @@
+.hero{
+    background-image:  url("../../../../public/hero-home.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 770px;
+    width: 100%;
+}
+.hero .container {
+  padding-top: 125%;
+}

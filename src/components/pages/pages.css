@@ -1,0 +1,37 @@
+.beneflex-hero{
+    background-image:  url("../../assets/images/PORTADA-BENEFLEX-V01.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 900px;
+    width: 100%;
+}
+.beneflex-hero .beneflex-container{
+  padding-top: 125%;
+}
+.testimonial__content h2 {
+  font-weight: 500;
+}
+.testimonial__img {
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  border-radius: 55px;
+  margin-left: -55px;
+}
+
+i{
+  font-size: 25px;
+  text-align: center;
+}
+
+@media screen and (max-width: 768px) {
+  .testimonial__img {
+   margin-left: -10px;
+   height: 200px;
+   width: 100%;
+  }
+  h2{
+    margin-left: 25px;
+  }
+}

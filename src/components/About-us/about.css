@@ -1,0 +1,16 @@
+.about__content {
+    padding-left: 50px;
+  }
+  
+  .about__img img {
+    border-radius: 15px;
+  }
+  
+  .about__content h2 {
+    font-weight: 600;
+  }
+
+  .about__content  p{
+    font-weight: 500;
+    font-size: 22px;
+  }
