@@ -1,6 +1,7 @@
 import React from 'react'
 import Header from '../common/header/Header'
-import { BrowserRouter,  Route, Routes } from 'react-router-dom'
+//import ReactDOM from "react-dom/client";
+import {  BrowserRouter,  Routes,  Route, } from "react-router-dom";
 import Home from '../Home/Home'
 import Beneflex from './Beneflex'
 import Ozias from './Ozias'
@@ -13,7 +14,7 @@ import Footer from '../Footer/Footer'
 const Pages = () => {
   return (
     <>
-    <BrowserRouter>
+        <BrowserRouter>
      <Header />
         <Routes>
           <Route exact path="/" element={<Home /> } />  
